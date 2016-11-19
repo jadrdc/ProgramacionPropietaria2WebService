@@ -1,0 +1,8 @@
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\bin\Debug\TimeClientWS.exe.config
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\bin\Debug\TimeClientWS.exe
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\bin\Debug\TimeClientWS.pdb
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\obj\Debug\TimeClientWS.Form1.resources
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\obj\Debug\TimeClientWS.Properties.Resources.resources
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\obj\Debug\TimeClientWS.csproj.GenerateResource.Cache
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\obj\Debug\TimeClientWS.exe
+c:\Users\20151303\documents\visual studio 2013\Projects\TimeWeb\TimeClientWS\obj\Debug\TimeClientWS.pdb
